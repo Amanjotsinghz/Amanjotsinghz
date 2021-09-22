@@ -18,7 +18,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/Amanjotsinghz<b
 
 
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919815146099) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/amanjot-singh-665629144/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://Amanjotsinghz.github.io/My-Portfolio/index.html) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@karankmehra8146287107)  [<img src="https://img.icons8.com/dusk/64/000000/instagram.png"/>](https://www.instagram.com/amanjotsinghz/)
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919815146099) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/amanjot-singh-665629144/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://github.com/Amanjotsinghz)  [<img src="https://img.icons8.com/dusk/64/000000/instagram.png"/>](https://www.instagram.com/amanjotsinghz/)
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/logickiller7.7/)
 
 
