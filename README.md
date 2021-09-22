@@ -9,7 +9,7 @@
 
 <details>	
   <summary><b>GitHub Stats</b></summary>
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=Karanmehra7107&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=Amanjotsinghz&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/Amanjotsinghz<br>
   
 </details>
@@ -17,15 +17,15 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/Amanjotsinghz<b
 
 
 ```python
-def skills_of_karan():
-  tech_with_proficiency={'Python':'Intermediate','Excel':'Intermediate','HTML':'Intermidiate','Tableau':'Beginner'}
+def skills_of_Amanjotsinghz():
+  tech_with_proficiency={'C,C++':'Intermediate','Html,css,javascript,bootstrap,jquery,php':'Intermediate','ASP.NET':'Intermediate','Excel':'Intermediate','Python':'Intermediate',}
   tools = ['pandas','sklearn','matplotlib','seaborn','streamlit']
   active_learner = True
   return ∞
 ```
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918146287107) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/karanmehra786/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://karanmehra7107.github.io/My-Portfolio/index.html) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@karankmehra8146287107)  [<img src="https://img.icons8.com/dusk/64/000000/instagram.png"/>](https://www.instagram.com/mehra_karan_/)
-[<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/jaimahakalkaran/)  [<img src="https://img.icons8.com/dusk/64/000000/twitter.png"/>](https://twitter.com/Karanme21095004)  
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919815146099) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/amanjot-singh-665629144/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://Amanjotsinghz.github.io/My-Portfolio/index.html) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@karankmehra8146287107)  [<img src="https://img.icons8.com/dusk/64/000000/instagram.png"/>](https://www.instagram.com/amanjotsinghz/)
+[<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/logickiller7.7/)
 
 
 
