@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanjotsinghz" alt="Amanjot Singh" /> </p>
 
 - 🔭 I’m currently gaining handson skills on **Web Development** 
-- 👨‍💻 All of my projects are available at [www.Amanjotsinghz.com](https://Amanjotsinghz.github.io/My-Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [www.Amanjotsinghz.com](https://github.com/Amanjotsinghz)
 - 📫 You can reach me at **amanjotsinghmann@gmail.com** | **amanjotluck@gmail.com** | **amanjot.11708163@lpu.in**
    
 
