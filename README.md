@@ -16,13 +16,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/Amanjotsinghz<b
 
 
 
-```python
-def skills_of_Amanjotsinghz():
-  tech_with_proficiency={'C,C++':'Intermediate','Html,css,javascript,bootstrap,jquery,php':'Intermediate','ASP.NET':'Intermediate','Excel':'Intermediate','Python':'Intermediate',}
-  tools = ['pandas','sklearn','matplotlib','seaborn','streamlit']
-  active_learner = True
-  return ∞
-```
+
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919815146099) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/amanjot-singh-665629144/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://Amanjotsinghz.github.io/My-Portfolio/index.html) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@karankmehra8146287107)  [<img src="https://img.icons8.com/dusk/64/000000/instagram.png"/>](https://www.instagram.com/amanjotsinghz/)
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/logickiller7.7/)
@@ -33,7 +27,5 @@ def skills_of_Amanjotsinghz():
 
 
 
- 
-[![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/62024355/87348913-21f77d80-c573-11ea-9297-ba7acdf5a9e0.gif)]([KaranMehra.pdf][KaranMehra.pdf](https://github.com/Karanmehra7107/Bootstrap-cap916/files/5042263/KaranMehra.pdf)
-)
+
 
