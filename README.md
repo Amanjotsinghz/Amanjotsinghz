@@ -1,4 +1,4 @@
-<h1 align="center">Hi there  👋</h1>
+<h1 align="center">Hey there  👋</h1>
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanjotsinghz" alt="Amanjot Singh" /> </p>
 
