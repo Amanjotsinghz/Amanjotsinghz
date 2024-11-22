@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently gaining handson skills on **Web Development** 
 - 👨‍💻 All of my projects are available at [www.Amanjotsinghz.com](https://github.com/Amanjotsinghz)
-- 📫 You can reach me at **amanjotsinghmann@gmail.com** | **amanjot.11708163@lpu.in**
+- 📫 You can reach me at **amanjotsinghmann@gmail.com** 
    
 
 <details>	
